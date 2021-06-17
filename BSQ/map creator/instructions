@@ -1,0 +1,2 @@
+in terminal, from inside folder Map creator, copy the command: perl map_creator 9 9 3 > example_file
+(9 9 3 are x, y and density respectively you can change the values to anything you want)
